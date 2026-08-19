@@ -43,6 +43,10 @@ Virtual desktop infrastructure (VDI) can also provide employees with secure remo
 
 Virtualized environments still require strong security controls, system monitoring, access management, backups, and network protection. Administrators must also monitor resource usage so that virtual machines receive enough processing power, memory, storage, and network capacity to operate effectively.
 
+### Systems Architecture Diagram
+
+![Systems Analysis Implementation Diagram](systems_virtualization_diagram.png)
+
 ## Structured Systems Troubleshooting
 
 A structured troubleshooting process helps identify the cause of an operating system problem before changes are made. The process includes gathering information, identifying recent changes, creating a hypothesis, testing the most likely cause, applying the appropriate correction, verifying the result, and documenting the resolution.
