@@ -8,6 +8,10 @@ This project examines how an organization can modernize an environment that uses
 
 The recommended approach uses Windows 11 as the primary operating system for most departments while maintaining macOS for creative work and Linux for specialized IT functions. The environment also combines physical infrastructure, cloud services, and virtualization to support business operations and remote employees.
 
+## Additional Project: Virtualization and Cloud Architecture
+
+[View my virtualization and cloud architecture recommendation](cloud-architecture-recommendation.md) for a growing delivery company. This academic case compares in-house and provider-hosted capacity, cloud deployment models, shared responsibility, and a phased hybrid approach.
+
 ## Skills Demonstrated
 
 - Operating system planning and analysis
