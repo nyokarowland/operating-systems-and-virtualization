@@ -22,7 +22,7 @@ Use a phased hybrid approach. First inventory applications, dependencies, hardwa
 
 ## Cloud Model Fit
 
-- **Private or in-house virtual:** sensitive internal systems needing direct control, subject to staffing and recovery capacity.
+- **Private cloud or in-house virtualized systems:** sensitive internal workloads needing direct control, with capacity, staffing, and recovery planned for each environment. Virtualization alone does not make an environment a private cloud.
 - **Public cloud IaaS/PaaS:** workloads with variable demand, with cost limits, identity controls, and monitoring.
 - **SaaS:** standard business applications, after reviewing ownership, integration, and exit terms.
 - **Hybrid:** gradual placement of workloads in the environments that best match security, performance, cost, and availability requirements.
