@@ -1,5 +1,23 @@
 # Operating Systems and Virtualization Portfolio
 
+**Summary:** I evaluated how an organization could modernize a mixed operating-system environment while preserving needed applications, supporting remote access, and reducing migration disruption.
+
+**Project type:** Academic systems analysis and infrastructure recommendations.
+
+## Business Question and Recommendation
+
+**Question:** Which operating-system and infrastructure choices best support departmental needs, compatibility, security, and future growth?
+
+**My role:** I compared operating-system needs, reviewed hardware and application considerations, documented troubleshooting scenarios, and proposed a phased migration.
+
+**Analysis:** Most departments can share a standard Windows environment, while specialized creative and IT functions may still need macOS or Linux. Compatibility checks should guide migration decisions before a wider rollout.
+
+**Recommendation:** Review hardware and applications, back up data, pilot compatible systems, and verify user access and application behavior before expanding. Monitor issues and document results at each phase.
+
+**Related cloud case:** [Virtualization and Cloud Architecture Recommendation](cloud-architecture-recommendation.md) compares control, cost, capacity, and operational responsibilities for a growing delivery company.
+
+**Limits:** These are proposed approaches and documented scenarios, not evidence of a production migration or measured cost savings.
+
 A systems analysis portfolio demonstrating operating system planning, hardware compatibility, virtualization, security, migration strategy, and structured troubleshooting.
 
 ## About the Project
